@@ -1,6 +1,6 @@
-** Call Centre Excel Dashboard
+#  Call Centre Excel Dashboard
 
-**  Project Overview
+##  Project Overview
 This project is an interactive Call Centre Performance Dashboard built using Microsoft Excel.
 
 The dashboard provides insights into:
@@ -10,7 +10,7 @@ The dashboard provides insights into:
 - Agent Performance
 - Customer Satisfaction Ratings
 
-** 🛠 Tools Used
+##  Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
@@ -18,19 +18,20 @@ The dashboard provides insights into:
 - Conditional Formatting
 - Dashboard Design
 
-**  Key Features
+##  Key Features
 - Interactive slicers
 - KPI cards
 - Dynamic charts
 - Clean and professional layout
 
-** Files Included
+##  Files Included
 - sample-data-excel-portfolio-project.xlsx
 
-**  Purpose
+##  Purpose
 This project demonstrates my Excel data analysis and dashboard creation skills for portfolio purposes.
 
 ---
 
- Created by
-Lokesh Nadendla
+###  Created by
+**Lokesh Nadendla**
+
